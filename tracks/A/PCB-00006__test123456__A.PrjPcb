@@ -1,0 +1,70 @@
+[Design]
+Version = 1.0
+HeirarchyMode = 0
+CurrentVariant = A
+
+[Document1]
+DocumentPath = test123456__TOP_LEVEL__A.SchDoc
+
+[Document2]
+DocumentPath = test123456__A.PcbDoc
+
+[Document3]
+DocumentPath = test123456__FAB_A.PCBDwf
+
+[Document4]
+DocumentPath = test123456__FAB_A.PCBDwf
+
+[Document5]
+DocumentPath = test123456__A.OutJob
+
+[Document6]
+DocumentPath = test123456__A.BomDoc
+
+[Document7]
+DocumentPath = BOM_Template.xlsx
+
+[Parameter1]
+Name = CCA_PART_NUMBER
+Value = CCA-00006
+
+[Parameter2]
+Name = CCA_TITLE
+Value = test123456
+
+[Parameter3]
+Name = PCB_PART_NUMBER
+Value = test123456
+
+[Parameter4]
+Name = PCB_VERSION
+Value = A
+
+[Parameter5]
+Name = PROJECT_ENGINEER
+Value = plexus
+
+[Parameter6]
+Name = PROJECT_STATUS
+Value = PROTOTYPE
+
+[Parameter7]
+Name = PROJECT_TITLE_LINE_1
+Value = test123456
+
+[Parameter8]
+Name = PROJECT_TITLE_LINE_2
+Value = 
+
+[Parameter9]
+Name = SCH_DATE
+Value = 2023-12-08
+
+[ProjectVariant1]
+UniqueID = 44DDE72C-D8A4-4947-8C55-6FBE38723CC4
+Description = A
+AllowFabrication = 1
+ParameterCount = 0
+VariationCount = 0
+ParamVariationCount = 0
+
